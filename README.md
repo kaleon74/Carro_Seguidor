@@ -18,8 +18,9 @@ sudo apt install python3-tk
 * **Construir el la imagen docker** <br>
 docker build -t usta_racing <br>
 * **Runearlo el imagen docker**<br>
-xhost +local:docker
+xhost +local:docker <br>
 docker run -it --rm \
   -e DISPLAY=$DISPLAY \
   -v /tmp/.X11-unix:/tmp/.X11-unix \
-  juego-tk
+  carro-seguidor
+
