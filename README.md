@@ -24,3 +24,7 @@ docker run -it --rm \
   -v /tmp/.X11-unix:/tmp/.X11-unix \
   carro-seguidor
 
+> ## Despliegue funcional
+![imagen](https://github.com/user-attachments/assets/95bc284c-ab3f-4f34-986a-cba89d0e557b)
+
+![imagen](https://github.com/user-attachments/assets/c6d87243-20bd-4d10-ad84-6dfc32da5185)
